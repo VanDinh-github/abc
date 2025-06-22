@@ -7,4 +7,4 @@ gõ chmod +x main để cấp quyền truy cập
 ./main    to run
 
 
-Ae nhớ sửa tên file lại compatibilY_screen.kv
+Ae nhớ sửa tên file lại compatibilitY_screen.kv
